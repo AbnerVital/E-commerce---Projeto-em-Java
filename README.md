@@ -27,7 +27,6 @@ Projeto desenvolvido com o objetivo de praticar lógica de programação orienta
 - Armazenamento e ordenação das compras realizadas.
 - Exibição do saldo restante do cartão ao final.
 
-```
 
 ## 👥 Time
 |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102125924?v=4" width=115><br><sub>Abner Vital</sub>](https://github.com/AbnerVital) |
